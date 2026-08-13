@@ -1,2 +1,2 @@
 # ideal-octo-waffle
-www.deenburner.com
+deen_burner_mobile.html
